@@ -1,3 +1,4 @@
+# If you are in United States, UK, Australia and... countries or your language is English
 <details>
 <summary>English</summary>
 
@@ -11,7 +12,7 @@ Hi there! 👋 I'm a young programmer passionate about learning and sharing know
 - **Telegram**: 💬 [My Telegram](https://t.me/DevFix)
 
 </details>
-
+# If you are in Germany, Austria, Switzerland and... countries or your language is Deutsch
 <details>
 <summary>Deutsch</summary>
 
@@ -25,7 +26,7 @@ Hallo! 👋 Ich bin ein junger Programmierer, der leidenschaftlich gerne lernt u
 - **Telegram**: 💬 [Mein Telegram](https://t.me/myusername)
 
 </details>
-
+# If you are in Iran, Afghanistan, Tajikistan and... countries or your language is Persian
 <details>
 <summary>فارسی</summary>
 

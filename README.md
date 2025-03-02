@@ -1,4 +1,4 @@
-# If you are in United States, UK, Australia and... countries or your language is English
+# If you are in United States, UK, Australia and... countries or your language is English 🇺🇸🇬🇧🇦🇺
 <details>
 <summary>English</summary>
 
@@ -13,7 +13,7 @@ Hi there! 👋 I'm a young programmer passionate about learning and sharing know
 
 </details>
 
-# If you are in Germany, Austria, Switzerland and... countries or your language is Deutsch
+# If you are in Germany, Austria, Switzerland and... countries or your language is Deutsch 🇩🇪🇦🇹🇸🇪
 
 <details>
 <summary>Deutsch</summary>
@@ -29,7 +29,7 @@ Hallo! 👋 Ich bin ein junger Programmierer, der leidenschaftlich gerne lernt u
 
 </details>
 
-# If you are in Iran, Afghanistan, Tajikistan and... countries or your language is Persian
+# If you are in Iran, Afghanistan, Tajikistan and... countries or your language is Persian 🇮🇷🇦🇫🇹🇯
 
 <details>
 <summary>فارسی</summary>
